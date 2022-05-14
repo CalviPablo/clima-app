@@ -66,6 +66,8 @@ class Busquedas {
       console.log(error);
     }
   }
+
+  agregarHistorial(lugar = "") {}
 }
 
 module.exports = Busquedas;
